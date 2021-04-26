@@ -1,0 +1,1 @@
+Problem link: https://pl.spoj.com/problems/FCTRL3/
