@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
     
-// solution is kinda overkill, but didnt bother to change that
+// solution is kinda overkill, but didnt bother to change that. Might later on
 
 std::string check_n_change_case(std::string &word){
     int upper_case = 0, lower_case = 0;
