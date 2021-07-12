@@ -17,7 +17,7 @@ int main(){
             std::cin >> arr[i];
         }
 
-        int flag = 0, tmp = 0, moves = 0;
+        int flag = 0, moves = 0;
         for(int i = 0; i < n; i++){
             if((arr[i] % 2 != 0 && i % 2 == 0) || (arr[i] % 2 == 0 && i % 2 != 0)){
                 flag = 1;
