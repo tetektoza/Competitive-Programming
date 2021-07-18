@@ -18,6 +18,7 @@ int main(){
 
             if(prime % i == 0){
                 cnt++;
+                break;
             }
         }
     
