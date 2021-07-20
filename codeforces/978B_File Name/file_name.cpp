@@ -19,9 +19,7 @@ int main(){
 
             cnt = 0;
         }
-
     }
-
 
     if(cnt < 3){
         std::cout << total << std::endl;
