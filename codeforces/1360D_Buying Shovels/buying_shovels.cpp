@@ -17,7 +17,6 @@ int main(){
         }
         
         int ans = 9999999999;
-        int div;
 
         for(int i = 1; i*i <= n; i++){
             if(n % i == 0 && i <= k){
