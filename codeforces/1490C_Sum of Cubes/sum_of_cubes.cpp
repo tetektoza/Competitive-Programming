@@ -13,11 +13,6 @@ int main(){
         ll x;
         scanf("%lld", &x);
         
-        if(x <= 1){
-            printf("NO\n");
-            continue;
-        }
-
         ll start = 1;
         ll cb, check_cb;
         int flag = 0;
