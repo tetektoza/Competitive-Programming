@@ -1,13 +1,10 @@
 #include <bits/stdc++.h>
-<<<<<<< HEAD
 
 using namespace std;
 
 
 int main(){
 
-=======
- 
 using namespace std;
  
  
